@@ -14,4 +14,4 @@ I'm currently learnig node.js, express.js, react and redux.:fire:<br>
 Other than that I'm still improving my html, css and javaScript skills.<br>
 I'm looking to land my first job as a web developer.
 
-You can reach me [here](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans) :email:
+You can reach me [here](mailto:wawrzyniak.peter@gmail.com) :email:
