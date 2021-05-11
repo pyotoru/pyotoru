@@ -9,8 +9,8 @@ pyotoru/pyotoru is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi, I'm Piotr.:wave:<br>
-I'm currently learnig node.js, express.js, react and redux.:fire:<br>
+Hi, I'm Piotr.<br>
+I'm currently learnig about node.js, express.js, vue.js, react and redux.<br>
 Other than that I'm still improving my html, css and javaScript skills.<br>
 I'm looking to land my first job as a web developer.
 
