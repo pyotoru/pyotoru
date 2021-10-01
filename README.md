@@ -12,4 +12,3 @@ You can click the Preview link to take a look at your changes.
 Hi, I'm Piotr.<br>
 I'm currently learnig about react and redux.<br>
 Other than that I'm still improving my html, css and javaScript skills.<br>
-I'm currently looking to land my first job as a web developer (preferably front-end).
